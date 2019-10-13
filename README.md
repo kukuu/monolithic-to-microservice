@@ -1,6 +1,6 @@
 # Monolithic to microservice
 
-Note any changes should not change the user experience. Just the architecture.
+ Any changes should not change the user experience. Just the architecture.
 
 1. https://github.com/kukuu/AGILITY/blob/master/SOA-and-MicroServices.md 
 
@@ -62,6 +62,14 @@ service => model => client
 i. JSON as exchange format and
 
 ii HTTP protocol
+
+
+## Architecture
+
+
+https://github.com/kukuu/Microservice-NodeJS/tree/master/microservice-snapshots   
+
+https://github.com/kukuu/Microservice-NodeJS/tree/master/kubernetes
 
 ## Best Practices
 
